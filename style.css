@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+iframe{
+    width: 75%;
+    height: 30%;
+}
+.highest-score{
+    text-transform: uppercase;
+}
+
+.main-heading {
+    text-decoration: underline;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+.btn {
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 1.5rem;
+}
+
+.button-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.flash {
+    background-color: white;
+}
