@@ -46,3 +46,10 @@ body {
 .flash {
     background-color: white;
 }
+
+@media (min-width: 320px) and (max-width: 480px) {
+    .btn {
+        width: 140px;
+        height: 140px;
+    }
+}
