@@ -3,11 +3,6 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-iframe {
-    width: 75%;
-    height: 30%;
-}
-
 .highest-score {
     text-transform: uppercase;
 }
